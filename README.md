@@ -1,5 +1,5 @@
 # Olá, Mundo!
 Primeiro repositório do curso de Git e GitHub
 
-                ᕦ(ツ)ᕤ
-Essa linha eu adicionei diretamente no site!  ㋡
+                    ᕦ(ツ)ᕤ
+(ɔ◔‿◔)ɔ ♥  linha adicionada diretamente no site! ♥(ˆ‿ˆԅ)
